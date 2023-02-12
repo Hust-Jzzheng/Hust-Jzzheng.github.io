@@ -6,6 +6,11 @@
 * 2018.9-2020.6   华中科技大学机械学院   机械制造及其自动化专业 <br>
 * 2020.9-至今   华中科技大学计算机学院  计算机软件与理论专业 <br> <br>
 
+研究方向
+----
+* NP-hard组合优化问题的求解，如SAT、MaxSAT、TSP/VRP、图染色、团及其变体问题等 <br>
+* 结合机器学习、强化学习求解组合优化问题 <br> <br>
+
 论文成果
 ----
 1. **Jiongzhi Zheng**, Kun He, Jianrong Zhou, Yan Jin, Chu-Min Li. Combining Reinforcement Learning with Lin-Kernighan-Helsgaun Algorithm for the Traveling Salesman Problem. AAAI 2021. <br>
