@@ -1,5 +1,11 @@
 # 郑迥之
 
+教育经历
+----
+· 2014.9~2018.6 华中科技大学材料学院  材料成型及其控制工程专业 <br>
+· 2018.9~2020.6 华中科技大学机械学院  机械制造及其自动化专业 <br>
+· 2020.9~至今 华中科技大学计算机学院 计算机软件与理论专业 <br> <br>
+
 论文成果
 ----
 1. Jiongzhi Zheng, Kun He, Jianrong Zhou, Yan Jin, Chu-Min Li. Combining Reinforcement Learning with Lin-Kernighan-Helsgaun Algorithm for the Traveling Salesman Problem. AAAI 2021. <br>
