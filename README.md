@@ -32,4 +32,9 @@
 
 参与项目
 ----
-MSRA Collaborative Research 2022 (100338928)
+MSRA Collaborative Research 2022 (100338928) <br> <br>
+
+其他荣誉
+----
+* 三好研究生2021、2022
+* 2022博士国家奖学金
